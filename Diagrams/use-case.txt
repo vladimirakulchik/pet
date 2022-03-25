@@ -1,0 +1,59 @@
+Guest:
+
+Create account
+Log in
+View active lots
+    Filter lots
+    Lot search
+View lot page
+
+____________________________________________________________________
+Customer:
+
+View active lots
+    Filter lots
+    Lot search
+View lot page
+Place a bet
+
+View account page
+    Edit account
+Log out
+
+____________________________________________________________________
+Seller:
+
+View account lots
+Pre-view lot page
+    Submit lot for moderation
+    Schedule auction
+Create new lot
+    Add lot to the category
+Edit lot
+    Remove lot from the category
+
+View account page
+    Edit account
+Log out
+
+____________________________________________________________________
+Administrator:
+
+View awaiting moderation lots
+Verify lot
+    Approve lot
+    Ban lot
+Create category
+View category list
+View category
+    Edit category
+    Delete category
+Log out
+
+____________________________________________________________________
+Supervisor:
+
+Start auction
+Stop auction
+    Determine a winner
+

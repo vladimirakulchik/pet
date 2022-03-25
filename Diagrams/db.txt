@@ -1,0 +1,53 @@
+User
+- id
+- login
+- email
+- createdDate
+- updatedDate
+
+
+Category
+- id
+- name
+- updatedDate
+
+ParentCategoryMap
+- id
+- categoryId
+- parentCategoryId
+
+
+Lot
+- id
+- categoryId
+- title
+- description
+- verified
+- createdDate
+- updatedDate
+
+VerificationLog
+- id
+- userId
+- lotId
+- timestamp
+
+
+Auction
+- id
+- lotId
+- userId
+- startDate
+- endDate
+- createdDate
+
+
+Bet
+- id
+- auctionId
+- userId
+- amount
+- createdDate
+
+
+
